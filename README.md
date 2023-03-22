@@ -19,4 +19,4 @@ pytest
 
 9 tests in total
 
-All tests should pass
+All 9 tests should pass
